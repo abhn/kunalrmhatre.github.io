@@ -2,6 +2,9 @@
 name: Kunal R Mhatre
 bio: Privacy is the new sexy
 
+# title
+title: Kunal R Mhatre
+
 # twitter summary info
 description: A blog about privacy and technology.
 
@@ -34,12 +37,12 @@ permalink: /:title/
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-#linkedin: kunalrmhatre
+# linkedin: kunalrmhatre
 # youtube: myyoutube
 # spotify: myspotify
 github: kunalrmhatre
@@ -47,10 +50,10 @@ github: kunalrmhatre
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-#email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
     johndoe:
